@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Selamat Datang. Ini adalah edit yang pertama</h1>
+    <h2>Ini adalah edit yang kedua</h2>
     
 </body>
 </html>
